@@ -1,0 +1,5 @@
+1. dependencias del sistema para apalancarse de funcionalidades especificas
+como: operacion del sistema de archivos, o librerias GUI.
+2.Unix-tipo and Windows
+3.Manejar y facilitar la ejecución de multiples MV en un equipo host.
+4.No, cada MV está aislada una de la otra.
